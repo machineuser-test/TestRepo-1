@@ -8,3 +8,4 @@ test 3
 Testing Kustomization
 
 Testing Helm
+Testing reorganized directory structure
